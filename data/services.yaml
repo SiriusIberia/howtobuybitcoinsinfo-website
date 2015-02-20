@@ -1972,3 +1972,11 @@ Igot:
     </p>
   coins: [btc]
   location: [au, nl, an, in, sg, hk, ae]
+
+SiriusIberia:
+  label: Sirius Iberia
+  countries: [es]
+  location: [es]
+  url: https://www.siriusiberia.com/
+  content: Sirius Iberia es el intermediario de confianza para comprar y vender bitcoins en unos minutos, ya sea mediante transferencia o efectivo. Puede venir a nuestra oficina en Madrid para un trato más personal.
+  coins: [btc]
